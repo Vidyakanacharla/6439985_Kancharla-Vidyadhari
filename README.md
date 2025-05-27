@@ -35,7 +35,7 @@ Core_Java_Exercises/ — Includes .java files categorized by concept
 📦 How to Use
 
 Clone the repo:
-git clone https:
+git clone https:https://github.com/Vidyakanacharla/6439985_Kancharla-Vidyadhari
 Open relevant folders in your preferred IDE or code editor.
 
 Use any local server (e.g., Live Server in VS Code) for HTML/CSS/JS files.
